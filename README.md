@@ -94,9 +94,17 @@ If either condition is not satisfied, the student is marked as **Fail**.
 <img width="1920" height="1080" alt="project-output 2 png" src="https://github.com/user-attachments/assets/159938e3-9c0b-461d-89a7-b8dfdfeb0966" />
 
 
-### 7.3 Generated Student Results
+### 7.3 Student Results
 
 <img width="1920" height="1080" alt="student-results png" src="https://github.com/user-attachments/assets/bb495e82-9e47-447f-bd67-9e4c3d958bfc" />
+
+### 7.4 main.py Code screenshots 
+
+<img width="1920" height="1080" alt="main-code 1 png" src="https://github.com/user-attachments/assets/744f4fcb-d125-4bf0-a765-095728d8a374" />
+
+<img width="1920" height="1080" alt="main-code 2 png" src="https://github.com/user-attachments/assets/cad58fd6-e94f-480f-a9b2-975d5cd47916" />
+
+<img width="1920" height="1080" alt="main-code 3 png" src="https://github.com/user-attachments/assets/227e0f5e-5dda-4161-b62c-c439ca69be07" />
 
 
 ## 8. How to Run the Project
