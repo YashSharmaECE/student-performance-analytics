@@ -89,18 +89,15 @@ If either condition is not satisfied, the student is marked as **Fail**.
 
 <img width="1920" height="1080" alt="project-output 1 png" src="https://github.com/user-attachments/assets/6563168e-041a-4083-a751-87a9f2023cce" />
 
-
 ### 7.2 Subject-wise Analysis and Top Performers
 
-This output displays the average marks of each subject, the best-performing subject, and the top five performers.
+<img width="1920" height="1080" alt="project-output 2 png" src="https://github.com/user-attachments/assets/159938e3-9c0b-461d-89a7-b8dfdfeb0966" />
 
-![Subject Analysis and Top Performers](screenshots/project-output-2.png)
 
 ### 7.3 Generated Student Results
 
-The generated CSV report contains all student records with their calculated performance details.
+<img width="1920" height="1080" alt="student-results png" src="https://github.com/user-attachments/assets/bb495e82-9e47-447f-bd67-9e4c3d958bfc" />
 
-![Student Results](screenshots/student-results.png)
 
 ## 8. How to Run the Project
 
