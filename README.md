@@ -169,7 +169,7 @@ This project provided practical experience in:
 
 The detailed documentation contains the project objective, dataset description, implementation, grading rules, output analysis, and actual program screenshots.
 
-[**View Project Documentation (PDF)**](Student_Performance_Analytics_Documentation_With_Screenshots.pdf)
+[**View Project Documentation (PDF)**](Student Performance Analytics Documentation Yash Sharma.pdf)
 
 ## 13. GitHub Repository
 
